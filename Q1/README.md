@@ -14,5 +14,5 @@ This section contains my analysis of Question 1 (Methods and Control Structures)
 - Calling loop
 - Boolean Statement
 ### What I learned from revisiting this problem:
-- 
+- By revisiting this problem, I learned how to condense boolean statements into one single boolean statement but was unable to during the time of the exam.
 
