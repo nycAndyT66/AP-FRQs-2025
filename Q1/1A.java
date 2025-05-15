@@ -1,6 +1,7 @@
 public class DogWalker{
     private int maxDogs;
-    
+
+    //part A
     public int walkDogs(int hour){
         int storeDog = numAvaliableDog(hour);
         if(maxDogs < storeDog)){
