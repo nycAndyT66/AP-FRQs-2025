@@ -1,6 +1,6 @@
 # Question 3 Analysis
 ## Matches
-This section contains my analysis of Question 2 (Class Design):
+This section contains my analysis of Question 3 (Array/ArrayList):
 
 ### My initial approach during the exam:
 - Same idea with question 1, code while reading the instructions after finish analyzing what they wanted you to code.
